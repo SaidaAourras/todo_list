@@ -1,0 +1,23 @@
+/* Add this to TodoItem.css */
+ .todo-item {
+       background-color: #f9f6ff;
+       border: 2px solid #6a0dad;
+       border-radius: 10px;
+     }
+     .btn-purple {
+       background-color: #6a0dad;
+       color: #fff;
+       border: none;
+       border-radius: 10px;
+     }
+     .btn-purple:hover {
+       background-color: #7b2fb7;
+     }
+     .todo-name {
+       font-size: 1.2rem;
+       color: #333;
+     }
+     .text-decoration-line-through {
+       text-decoration: line-through;
+       color: #888;
+     }
